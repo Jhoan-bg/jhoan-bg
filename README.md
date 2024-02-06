@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Jhoan Sebastián Bolaños Gómez</h1>
 <h3 align="center">Soy un Ingeniero de Sistemas apasionado por el desarrollo Frontend</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Angular , React.**
+- 🌱 Actualmente estoy aprendiendo **Angular y React.**
 
 - 💬 Pregúntame sobre **Angular, React, Angular Material, PrimeNG, Bootstrap, CSS, HTML,TypeScript, Java**
 
